@@ -1,1 +1,1 @@
-Restaurant Management System in C
+Restaurant Management System in C++
