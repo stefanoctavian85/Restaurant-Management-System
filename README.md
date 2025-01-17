@@ -17,5 +17,5 @@ To set up the project locally, follow these steps:
    git clone https://github.com/stefanoctavian85/Restaurant-Management-System.git
 2. Navigate to the project directory:
    cd Restaurant-Management-System
-3. Run the project in VS Code or whatever IDE your are using.
+3. Run the project in VS Code or whatever IDE you are using.
 
